@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\bin\Debug\Client.exe.config
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\bin\Debug\Client.exe
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\bin\Debug\Client.pdb
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.exe
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.pdb
+C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Client\obj\Debug\Client.GameGui.resources
